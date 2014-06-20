@@ -1,5 +1,6 @@
 {
   "name": "lib5",
-  "dependencies": {
+  "devDependencies": {
+    "lib4": "git://github.com/scf2k/lib4.git"
   }
 }
